@@ -1,0 +1,9 @@
+ID,Name,Type,Content/URL,Metadata
+1,Sample Text File,text,This is an unstructured piece of text data.,"Author: John Doe; Size: 2KB; Date: 2025-03-07"
+2,Image File,image,http://example.com/images/image1.jpg,"Width: 1024px; Height: 768px; Format: JPG"
+3,Log File,text,Error occurred while processing data.,"Level: Error; Timestamp: 2025-03-07 12:00; File: logs/system.log"
+4,Audio File,audio,http://example.com/audio/song.mp3,"Duration: 3m45s; Bitrate: 320Kbps"
+5,Video File,video,http://example.com/videos/video1.mp4,"Resolution: 1920x1080; Duration: 10m30s; Format: MP4"
+6,CSV File,text,"Column1, Column2, Column3, etc.","Rows: 500; Date: 2025-03-06"
+7,Profile Picture,image,http://example.com/profile/pic.jpg,"Width: 200px; Height: 200px; Format: PNG"
+8,Document,text,This is a PDF document text excerpt.,"Type: PDF; Author: Jane Doe; Size: 1MB
