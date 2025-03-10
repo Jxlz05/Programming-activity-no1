@@ -6,4 +6,4 @@ ID,Name,Type,Content/URL,Metadata
 5,Video File,video,http://example.com/videos/video1.mp4,"Resolution: 1920x1080; Duration: 10m30s; Format: MP4"
 6,CSV File,text,"Column1, Column2, Column3, etc.","Rows: 500; Date: 2025-03-06"
 7,Profile Picture,image,http://example.com/profile/pic.jpg,"Width: 200px; Height: 200px; Format: PNG"
-8,Document,text,This is a PDF document text excerpt.,"Type: PDF; Author: Jane Doe; Size: 1MB
+8,Document,text,This is a PDF document text excerpt.,"Type: PDF; Author: Jane Doe; Size: 1MB"
